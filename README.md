@@ -1,5 +1,5 @@
 ### Hi there 👋
-Profile Hits: [![HitCount](https://hits.dwyl.com/amrrs/amrrs.svg?style=flat-square)](http://hits.dwyl.com/amrrs/amrrs)
+![](https://komarev.com/ghpvc/?username=DuongHaoNika)
 <!--
 **DuongHaoNika/DuongHaoNika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
