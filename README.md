@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Hao. I'm a PTIT's student.
 ![](https://komarev.com/ghpvc/?username=DuongHaoNika)
 
 # 📊GitHub Stats :
