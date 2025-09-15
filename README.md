@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Hao. I'm a PTIT's student.
+I'm Hao. I'm a PTIT student.
 
-My blog website: https://haonika.id.vn
+My blog website: https://duonghaonika.github.io/
 
 ![](https://komarev.com/ghpvc/?username=DuongHaoNika)
 
